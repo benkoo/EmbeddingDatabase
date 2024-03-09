@@ -1,2 +1,4 @@
 EmbeddingDBs/
 data/
+__pycache__/
+.venv/
